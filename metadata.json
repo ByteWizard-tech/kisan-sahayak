@@ -1,0 +1,7 @@
+{
+  "name": "KisanSahayak - Climate Resilient Advisory",
+  "description": "A Design Thinking driven advisory platform connecting farmers with actionable, hyper-local climate and crop guidance using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
